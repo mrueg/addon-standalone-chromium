@@ -1,0 +1,4 @@
+---
+build_from:
+  aarch64: selenium/standalone-chromium:136.0
+  amd64: selenium/standalone-chromium:136.0
