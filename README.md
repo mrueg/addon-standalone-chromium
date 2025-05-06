@@ -6,4 +6,5 @@
 Chromium Standalone to run Selenium Webdriver remotely.
 
 Used Ports:
-* 4444
+
+- 4444
