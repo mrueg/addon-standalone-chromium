@@ -19,6 +19,6 @@ ports:
   7900/tcp: null
 ports_description:
   4444/tcp: "Remote Port for WebDriver"
-  7900/tcp: "No VNC Port"
+  7900/tcp: "NoVNC Port"
 map:
   - addon_config:rw
