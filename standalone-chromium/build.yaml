@@ -1,4 +1,4 @@
 ---
 build_from:
-  aarch64: selenium/standalone-chromium:140.0.7339.80
-  amd64: selenium/standalone-chromium:140.0.7339.80
+  aarch64: selenium/standalone-chromium:141.0.7390.107
+  amd64: selenium/standalone-chromium:141.0.7390.107
